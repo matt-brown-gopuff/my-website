@@ -6,4 +6,4 @@ Edit an example branch
 
 Squash and merge edit
 
-Edit from branch main in github
+Edit from branch made in github
