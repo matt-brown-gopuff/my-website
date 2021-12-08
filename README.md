@@ -9,3 +9,5 @@ Squash and merge edit
 Edit from branch made in github
 
 Readme updated on master from github before rebase
+
+Add text
