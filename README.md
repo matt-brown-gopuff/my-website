@@ -10,4 +10,6 @@ Edit from branch made in github
 
 Readme updated on master from github before rebase
 
-This conflicts with changes made on remote side.
+Like this better
+
+This is better
